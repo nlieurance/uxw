@@ -1,0 +1,21 @@
+title: "VuLink Telemetry Case Study"
+description: "How simplifying one powerful device helped users trust it—and turned it into a best-seller."
+author: "Your Name"
+email: your.email@example.com
+baseurl: "" # Leave blank unless your site is in a subdirectory
+url: "https://yourusername.github.io" # Change this to your GitHub Pages URL
+
+theme: jekyll-theme-cayman	
+
+# Optional: Add your social links or GitHub repo
+github_username: yourusername
+twitter_username: yourhandle
+
+# Enable future features
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (optional but useful)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
