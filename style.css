@@ -7,7 +7,7 @@
     "wdth" 100;
 }
 
-h1 {
+h1, h2, h3, h4 {
   font-family: "Georama", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -24,7 +24,7 @@ h1 {
   font-style: normal;
 }
 
-p, ol, ul {
+p, ol, ul, li {
   font-family: "Jost", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
