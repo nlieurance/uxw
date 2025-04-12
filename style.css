@@ -24,7 +24,7 @@ h1 {
   font-style: normal;
 }
 
-p {
+p, ol, ul {
   font-family: "Jost", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
